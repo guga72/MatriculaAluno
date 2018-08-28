@@ -1,18 +1,18 @@
 package exerciciologicaprogramacao;
 public class CursoRepositorio {
-    private void GetCodigo(){
+    private void GetCodigo(String codigo){
         
     }
-    private void GetTurma(){
+    private void GetTurma(String turma){
         
     }
-    private void GetAluno(){
+    private void GetAluno(String pront){
         
     }
-    private void AddAluno(){
+    private void AddAluno(String pront){
         
     }
-    private void ExisteAluno(){
+    private void ExisteAluno(Aluno aluno){
         
     }
 }

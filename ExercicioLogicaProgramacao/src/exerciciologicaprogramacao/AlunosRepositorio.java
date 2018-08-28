@@ -1,19 +1,18 @@
 package exerciciologicaprogramacao;
 
 public class AlunosRepositorio {
-    private void BuscaCpf() {
-    
+    private void BuscaCpf(String cpf){
 }
-    private void PesquisaPront(){
+    private void PesquisaPront(String prontuario){
         
     }
-    private void AdicionarAluno(){
+    private void AdicionarAluno(Aluno aluno){
         
     }
-    private void RemoverAluno(){
+    private void RemoverAluno(Aluno aluno){
         
     }
-    private void BuscaNome(){
+    private void BuscaNome(String nome){
         
     }
 }
